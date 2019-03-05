@@ -1,0 +1,6 @@
+.DS_Store
+Secrets.txt
+
+#comment with hash
+
+#*.txt asterix is wild card so all .txt ignore
